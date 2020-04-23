@@ -1,0 +1,18 @@
+# Theme metadata
+name = "viridis"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#7AD151"
+
+# Menu
+menu_primary = "#FDE725"
+menu_text = "#4f4f4f"
+menu_text_active = "#0a0a0a"
+menu_title = "#5e5e5e"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
