@@ -15,6 +15,19 @@ height = ""
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
+
+[[item]]
+  title = "ASHG workshop 2019"
+  content = "Reproducible GWAS on Terra"
+  align = "center"
+
+  overlay_color = "#555"  # An HTML color value.
+  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+  cta_label = "See project details"
+  cta_url = "project/cloud_workflows"
+
 [[item]]
   title = "Influenza assembly dynamics"
   # content = "This is the first project"
@@ -34,27 +47,3 @@ height = ""
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
 
-[[item]]
-  title = "Project 2"
-  content = "This is the second project"
-  align = "center"
-
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-  cta_label = "See project details"
-  cta_url = "#projects"
-
-[[item]]
-  title = "Project 3"
-  content = "This is the third project"
-  align = "center"
-
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-  cta_label = "See project details"
-  cta_url = "#projects"
-+++
