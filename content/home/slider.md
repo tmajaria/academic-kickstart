@@ -69,5 +69,5 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
   cta_label = "See publication overview"
-  cta_url = "publication/topmed_t2d_2"
+  cta_url = "publication/topmed_t2d"
 +++
