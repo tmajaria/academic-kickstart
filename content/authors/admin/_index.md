@@ -24,8 +24,8 @@ bio: Computational Biologist in Dr. Alisa K. Manning's lab at the Broad Institut
 
 interests:
 - Statistical genetics
+- Complex disease biology
 - Type 2 Diabetes
-- Gene-lifestyle interactions
 
 education:
   courses:
@@ -44,20 +44,22 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/TimMajarian
+  link: https://www.linkedin.com/in/tmajarian/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=3knF0igAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/tmajaria
-# Link to a PDF of your resume/CV from the About widget.
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/TimMajarian
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/majarian.cv.mar.2020.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,4 +70,4 @@ user_groups:
 - Researchers
 ---
 
-Tim Majarian is computational biologist in Dr. Alisa K. Manning's lab at the Broad Institute.
+Tim Majarian is a computational biologist in Dr. Alisa K. Manning's lab at the Broad Institute.

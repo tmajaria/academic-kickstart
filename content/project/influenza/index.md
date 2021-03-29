@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Spatial relationships between influenza A genomic segments"
   focal_point: ""
   preview_only: false
 
@@ -42,3 +42,6 @@ slides: ""
 
 ## Overview
 Within influenza virus infected cells, viral genomic RNA are selectively packed into progeny virions, which predominantly contain a single copy of 8 viral RNA segments. Intersegmental RNA-RNA interactions are thought to mediate selective packaging of each viral ribonucleoprotein complex (vRNP). Clear evidence of a specific interaction network culminating in the full genomic set has yet to be identified. Using multi-color fluorescence in situ hybridization to visualize four vRNP segments within a single cell, we developed image-based models of vRNP-vRNP spatial dependence. These models were used to construct likely sequences of vRNP associations resulting in the full genomic set. Our results support the notion that selective packaging occurs during cytoplasmic transport and identifies the formation of multiple distinct vRNP sub-complexes that likely form as intermediate steps toward full genomic inclusion into a progeny virion. The methods employed demonstrate a statistically driven, model based approach applicable to other interaction and assembly problems.
+
+## Read more
+https://doi.org/10.1371/journal.pcbi.1006199

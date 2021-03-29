@@ -4,7 +4,7 @@
 title: "Learning the sequence of influenza A genome assembly during viral replication using point process models and fluorescence in situ hybridization"
 authors: [TD Majarian, RF Murphy, SS Lakdawala]
 date: 2020-04-23T14:50:54-04:00
-doi: ""
+doi: "https://doi.org/10.1371/journal.pcbi.1006199"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-04-23T14:50:54-04:00
@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: 
 url_video:
 
 # Featured image
@@ -67,3 +67,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+## Read the full article
+https://doi.org/10.1371/journal.pcbi.1006199

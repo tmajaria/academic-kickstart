@@ -1,0 +1,18 @@
+# Notes on Hugo
+
+# make a new project
+hugo new  --kind project project/cloud_workflows
+
+# publishing
+edit base url to tmajaria.github.io
+
+git submodule add -f -b master https://github.com/tmajaria/tmajaria.github.io.git public
+
+
+# regenerate
+hugo
+cd public
+git add .
+git commit -m "Build website"
+git push origin master
+cd ..
