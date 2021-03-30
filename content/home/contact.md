@@ -7,6 +7,7 @@ weight: 60
 title: Contact
 subtitle: ''
 email_form: 2
+autolink: false
 
 content:
   form:
