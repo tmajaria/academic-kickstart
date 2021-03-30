@@ -1,7 +1,7 @@
 # Notes on Hugo
 
 # make a new project
-hugo new  --kind project project/cloud_workflows
+hugo new --kind publication publication/topmed_t2d_2
 
 # publishing
 edit base url to tmajaria.github.io

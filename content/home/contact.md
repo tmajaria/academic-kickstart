@@ -12,5 +12,5 @@ content:
   form:
     provider: formspree
     formspree:
-      id: xbjqreve
+      id: https://formspree.io/f/xbjqreve
 ---
